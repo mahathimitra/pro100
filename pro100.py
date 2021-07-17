@@ -23,4 +23,4 @@ Mahathi = Atm('1234567898765432', '7777')
 
 Mahathi.withdrawl()
 Mahathi.balance()
-
+Mahathi.thanks()
