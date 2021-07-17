@@ -15,6 +15,9 @@ class Atm(object):
     def balance(self):
         b = random.randint(1000000, 7000000)
         print('Your balance is currently ' + str(b) + ' rupees.')
+        
+    def thanks(self):
+        print('Thanks for visiting Gringotts ATM!')
 
 Mahathi = Atm('1234567898765432', '7777')
 
